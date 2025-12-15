@@ -13,3 +13,7 @@ coefficient_g_t  ----- computes coefficents of the reciporcal G(t)
 angle_analysis, gaussian_chart, geometric test, hecke test, are tests ran on the base case identity prime ladder list
 
 k_search, heenger.fields ladder_analysis_a1_2.py is for the test at different parameters and searches. 
+
+SAGELINKS INCLUDED TO EACH NOTEBOOK I HAVE RAN. SOME OF THE CELLS DO NOT WORK, BUT FOR SAKE OF CLARITY I LEFT THE NOTEBOOKS AS IS, AM IN THE PROCESS OF MOVING MY KAGGLE NOTEBOOK OVER HERE AS WELL AS ITS ANOTHER AREA I RAN COMPUTATIONS AT. 
+
+APOLOGIES FOR NOT BEING MORE BUTTONED UP... 
